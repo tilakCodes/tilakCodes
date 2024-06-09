@@ -16,16 +16,10 @@
     <tr>
         <td align="center">
             <a href="https://github.com/tilakCodes">
-                <img src="https://github-readme-stats.vercel.app/api?username=tilakCodes&show_icons=true" alt="My GitHub Stats"/>
-            </a>
-            <a href="https://github.com/tilakCodes">
                 <img src="https://github-readme-stats.vercel.app/api?username=tilakCodes&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/>
             </a>
         </td>
         <td rowspan="2" align="center">
-            <a href="https://github.com/tilakCodes">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilakCodes&theme=default&langs_count=8" alt="My GitHub Stats"/>
-            </a>
             <a href="https://github.com/tilakCodes">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilakCodes&theme=tokyonight&langs_count=8" alt="My GitHub Stats"/>
             </a>
@@ -33,9 +27,6 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/tilakCodes">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=tilakCodes&theme=default" alt="tilakCodes's GitHub streak"/>
-            </a>
             <a href="https://github.com/tilakCodes">
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tilakCodes&theme=tokyonight" alt="tilakCodes's GitHub streak"/>
             </a>
